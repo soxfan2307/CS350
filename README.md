@@ -1,3 +1,18 @@
+Welcome to my repository for my CS-350 class on Embedded Systems and Technologies!
+
+The final project in this class was to build code that worked with the CC3220S board from TI SimpleLink, a microcontroller board, in which while the code was running the board would read back out over the IDE the temperature it was set to and how long ago the temperature was changed. Basically the board was going to act as a thermostat that was sensing the room temperature and the buttons served as inputs to lower or increase the set temperature with a binary variable showcasing the activation or shut down of the heat function.
+
+There were a lot of aspects that needed to be covered considering my level of expertise with C++ however the instructions were clear and reading the DOCUMENTATION proved essential in order to better understand the variables that I was working with.
+
+I believe that some more books covering microcontrollers from the different ones that I have seen within Amazon are definitely in order so that I can be more efficient at this.
+
+Doing research was very important for this project and I am going to utilize that as well as trying to manage my time better.
+
+I tried to make sure that I put each different function off on it's own and I tried to make the code readable as though if I wasn't the one who worked on it and needed to either add a new function or change some outdated code.
+
+About
+repository for my CS-350 class, Embedded Systems and Technology.
+
 ## Example Summary
 
 Application that toggles an LED(s) using a GPIO pin interrupt.
