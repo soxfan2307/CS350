@@ -12,7 +12,7 @@
 	<createSlaveProjects value=""/>
 	<ignoreDefaultDeviceSettings value="true"/>
 	<ignoreDefaultCCSSettings value="true"/>
-	<templateProperties value="id=pwmled2_CC3220S_LAUNCHXL_nortos_ccs.projectspec.pwmled2_CC3220S_LAUNCHXL_nortos_ccs,buildProfile=release,isHybrid=true"/>
-	<origin value="C:\ti\simplelink_cc32xx_sdk_6_10_00_05\examples\nortos\CC3220S_LAUNCHXL\drivers\pwmled2\ccs\pwmled2_CC3220S_LAUNCHXL_nortos_ccs.projectspec"/>
+	<templateProperties value="id=gpiointerrupt_CC3220S_LAUNCHXL_nortos_ccs.projectspec.gpiointerrupt_CC3220S_LAUNCHXL_nortos_ccs,buildProfile=release,isHybrid=true"/>
+	<origin value="C:\ti\simplelink_cc32xx_sdk_6_10_00_05\examples\nortos\CC3220S_LAUNCHXL\drivers\gpiointerrupt\ccs\gpiointerrupt_CC3220S_LAUNCHXL_nortos_ccs.projectspec"/>
 	<filesToOpen value=""/>
 </projectOptions>
